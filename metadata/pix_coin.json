@@ -1,0 +1,10 @@
+{
+    "name": "PIX Coin",
+    "symbol": "PIX",
+    "description": "Supreme PiXels NFT Collection",
+    "seller_fee_basis_points": 5,
+    "external_url": "https://coin.spxnft.xyz",
+    "edition": "",
+    "background_color": "00FF00",
+    "image": "https://coin.spxnft.xyz/images/coin.png"
+  }
